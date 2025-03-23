@@ -1,0 +1,59 @@
+/* Dark Mode */
+.dark-mode {
+    -fx-background-color: #454545;
+}
+
+.dark-mode #chat-area {
+    -fx-background-color: #555555;
+    -fx-text-fill: white;
+}
+
+.dark-mode #input-field {
+    -fx-background-color: #777777;
+    -fx-text-fill: white;
+}
+
+.dark-mode #send-button {
+    -fx-background-color: #6200EE;
+    -fx-text-fill: white;
+}
+
+/* Light Mode */
+.light-mode {
+    -fx-background-color: #ffffff;
+}
+
+.light-mode #chat-area {
+    -fx-background-color: #f5f5f5;
+    -fx-text-fill: black;
+}
+
+.light-mode #input-field {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+.light-mode #send-button {
+    -fx-background-color: #6200EE;
+    -fx-text-fill: white;
+}
+
+/* Theme Toggle Button */
+#theme-toggle {
+    -fx-background-color: #ffb74d;
+    -fx-text-fill: black;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 20px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+#theme-toggle:hover {
+    -fx-background-color: #ff9800;
+}
+
+/* Centering Buttons */
+HBox {
+    -fx-alignment: center;
+}

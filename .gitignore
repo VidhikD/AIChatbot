@@ -1,0 +1,15 @@
+# Ignore environment files (API keys)
+.env
+
+# Ignore compiled files
+target/
+*.class
+
+# Ignore IDE/editor files
+.idea/
+*.iml
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
