@@ -10,7 +10,7 @@ A simple AI chatbot built with Java, JavaFX, and the Hugging Face API.
 - JavaFX GUI
 
 ## Screenshots 🖼️
-![Chatbot UI](screenshots/screenshot3.png)
-![Light Mode](screenshots/screenshot2.png)
-![Dark Mode](screenshots/screenshot1.png)
+![Chatbot UI](screenshots/AIChatBot3.png)
+![Light Mode](screenshots/AIChatBot1.png)
+![Dark Mode](screenshots/AIChatBot2.png)
 
